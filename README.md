@@ -96,7 +96,7 @@ This repository tracks all historical deals for **Funded Hero** published on Pro
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T08:12:31Z (auto, hourly)
+Last synced: 2026-10-29T08:52:20Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 

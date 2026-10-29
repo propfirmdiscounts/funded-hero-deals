@@ -96,4 +96,4 @@ This repository tracks all historical deals for **Funded Hero** published on Pro
 
 ---
 
-Last synced: 2026-10-29T02:42:29Z (auto, hourly)
+Last synced: 2026-10-29T06:31:49Z (auto, hourly)

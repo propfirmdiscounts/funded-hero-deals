@@ -1,0 +1,8 @@
+# Funded Hero Discount Codes
+
+This dataset tracks historical deal observations for Funded Hero from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (70%)
+Works any time on all Funded Hero challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/funded-hero/

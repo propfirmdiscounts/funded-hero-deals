@@ -1,6 +1,6 @@
 # Funded Hero Discount Code
 
-As of 2026-10-27, Funded Hero deals run up to 70% OFF with code PFD, which works any time — the newest is **70% Off $100K Villain Challenge for Halloween**.
+As of 2026-10-27, Funded Hero deals run up to 70% OFF with code PFD, which works any time — the newest is 70% Off $100K Villain Challenge for Halloween.
 
 > At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.
 > Getting started with us is simple. We’ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.

@@ -25,7 +25,7 @@ As of 2026-10-27, Funded Hero deals run up to 62% OFF with code PFD, which works
 - Discount: Up to 62% off (what the code takes off the firm's newest deal; it applies to every Funded Hero deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
-- Trustpilot: 4/5 (442 reviews)
+- Trustpilot: 4/5 (443 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes

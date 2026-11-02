@@ -68,7 +68,7 @@ Total deals tracked: **46**
 | 2026-10-27 | 70% Off $100K Villain Challenge for Halloween | 70% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) |
 | 2026-10-20 | 62% Off All Accounts With Free Second Account | 62% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) |
 | 2026-10-13 | 70% Off All Challenge Fees | 70% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) |
-| 2026-10-01 | 65% Off Challenge Pricing | 65% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) |
+| 2026-10-01 | 65% Off Challenge Pricing | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) |
 | 2026-09-24 | 60% Off All Evaluation Accounts Plus Buy 1 Get 1 Free | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) |
 | 2026-09-20 | 65% Off All Evaluation Accounts | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) |
 | 2026-09-10 | 60% Off Upfront Entry Cost and 10% First Payout Bonus | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/) |

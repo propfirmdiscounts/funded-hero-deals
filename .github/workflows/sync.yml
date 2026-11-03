@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: fundedhero
   FIRM_SLUG: funded-hero
   DEALSTORE_ID: 207
   FIRM_NAME: Funded Hero

@@ -1,6 +1,6 @@
 # Funded Hero - Discount Codes & Deal History
 
-As of 2026-10-27, Funded Hero deals run up to 62% OFF with code PFD, which works any time — the newest is 70% Off $100K Villain Challenge for Halloween.
+As of 2026-11-04, Funded Hero deals run up to 60% OFF with code PFD, which works any time — the newest is 60% Off Instant Elite and Every Challenge.
 
 > At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.
 > Getting started with us is simple. We’ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.
@@ -10,30 +10,29 @@ As of 2026-10-27, Funded Hero deals run up to 62% OFF with code PFD, which works
 > — Funded Hero, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundedhero.com)
 
 - Code: PFD
-- Discount: Up to 62% off (what the code takes off the firm's newest deal; it applies to every Funded Hero deal, whatever form that deal is stated in)
+- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Funded Hero deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-27
+- Last deal published: 2026-11-04
 - Trustpilot: 4/5 (443 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Funded Hero deal: 70% Off $100K Villain Challenge for Halloween
+## Current Funded Hero deal: 60% Off Instant Elite and Every Challenge
 
-- Published: 2026-10-27
-- Offer ends: 2026-10-31 (ended)
-- Offer: 70% off
-- Event: Halloween
-- Scope: All Challenges, 3-Step Villain, $100K Account
+- Published: 2026-11-04
+- Offer ends: Limited time
+- Offer: 60% off
+- Scope: Instant Elite, $100K Account, All Challenges, Instant Accounts
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
+- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
 
 ## Funded Hero discount code FAQ
 
 **What is the Funded Hero discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 62% off Funded Hero challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 60% off Funded Hero challenges and accounts.
 
 **Does the Funded Hero discount code expire?**
 
@@ -41,18 +40,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Hero deal?**
 
-**70% Off $100K Villain Challenge for Halloween** — published 2026-10-27. Offer ends: 2026-10-31 (ended). The offer is 70% off.
+**60% Off Instant Elite and Every Challenge** — published 2026-11-04. Offer ends: Limited time. The offer is 60% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **46**
+Total deals tracked: **47**
 
-### 2026 (43 deals)
+### 2026 (44 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-04 | 60% Off Instant Elite and Every Challenge | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) |
 | 2026-10-27 | 70% Off $100K Villain Challenge for Halloween | 70% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) |
 | 2026-10-20 | 62% Off All Accounts With Free Second Account | 62% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) |
 | 2026-10-13 | 70% Off All Challenge Fees | 70% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) |

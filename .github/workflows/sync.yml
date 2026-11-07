@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: funded-hero-discount-codes
+  HF_NAMESPACE: fundedhero
+  HF_REPO_NAME: funded-hero-deals
   FIRM_SLUG: funded-hero
   DEALSTORE_ID: 207
   FIRM_NAME: Funded Hero

@@ -13,11 +13,12 @@ As of 2026-11, Funded Hero deals run 60% OFF with code PFD, which works any time
 - Discount: 60% off (what the code takes off the firm's newest deal; it applies to every Funded Hero deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 4/5 (449 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedhero
-- Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4/5 (449 reviews)](https://www.trustpilot.com/review/fundedhero.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/funded-hero-deals](https://github.com/propfirmdiscounts/funded-hero-deals)
+- Activate: [https://propfirmdiscount.com/go/fundedhero](https://propfirmdiscount.com/go/fundedhero)
+- Firm page: [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Hero deal: 60% Off Instant Elite and Every Challenge with code PFD
 
@@ -26,7 +27,7 @@ As of 2026-11, Funded Hero deals run 60% OFF with code PFD, which works any time
 - Offer: 60% off
 - Scope: Instant Elite, $100K Account, All Challenges, Instant Accounts
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
+- Deal page: [https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/)
 
 ## Funded Hero discount code FAQ
 
@@ -111,9 +112,9 @@ Total deals tracked: **47**
 
 This repository mirrors every deal **Funded Hero** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/funded-hero/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-hero-deals.json`
 

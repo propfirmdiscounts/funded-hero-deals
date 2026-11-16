@@ -1,6 +1,6 @@
 # Funded Hero - Discount Codes & Deal History
 
-As of November 2026, Funded Hero deals offer 60% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Funded Hero discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant Elite and Every Challenge with code PFD".
 
 > At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.
 > Getting started with us is simple. We’ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.
@@ -14,11 +14,11 @@ As of November 2026, Funded Hero deals offer 60% OFF with code PFD, which can be
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
 - Trustpilot: [4/5 (449 reviews)](https://www.trustpilot.com/review/fundedhero.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/funded-hero-deals](https://github.com/propfirmdiscounts/funded-hero-deals)
-- Activate: [https://propfirmdiscount.com/go/fundedhero](https://propfirmdiscount.com/go/fundedhero)
-- Firm page: [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Funded Hero Deals Repository](https://github.com/propfirmdiscounts/funded-hero-deals)
+- Activate: [Activate Funded Hero Discount Code](https://propfirmdiscount.com/go/fundedhero)
+- Firm page: [Funded Hero Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-hero/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Funded Hero API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Hero deal: 60% Off Instant Elite and Every Challenge with code PFD
 
@@ -27,7 +27,7 @@ As of November 2026, Funded Hero deals offer 60% OFF with code PFD, which can be
 - Offer: 60% off
 - Scope: Instant Elite, $100K Account, All Challenges, Instant Accounts
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/)
+- Deal page: [Funded Hero Deal Page](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/)
 
 ## Funded Hero discount code FAQ
 
@@ -112,9 +112,9 @@ Total deals tracked: **47**
 
 This repository mirrors every deal **Funded Hero** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Funded Hero Profile](https://propfirmdiscount.com/prop-firm/funded-hero/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-hero-deals.json`
 
@@ -157,4 +157,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

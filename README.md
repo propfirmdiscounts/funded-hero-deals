@@ -1,6 +1,6 @@
-# Funded Hero - Discount Codes & Deal History
+# Funded Hero Discount Code & Deal History
 
-As of November 2026, the verified Funded Hero discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant Elite and Every Challenge with code PFD".
+As of November 2026, the verified Funded Hero discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant Elite and Every Challenge with code PFD".
 
 > At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.
 > Getting started with us is simple. We’ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.
@@ -11,7 +11,7 @@ As of November 2026, the verified Funded Hero discount code is PFD — 70% OFF, 
 
 - Code: PFD
 - Discount: 60% off (what the code takes off the firm's newest deal; it applies to every Funded Hero deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-04
 - Trustpilot: [4/5 (449 reviews)](https://www.trustpilot.com/review/fundedhero.com)
 - GitHub repository: [Funded Hero Deals Repository](https://github.com/propfirmdiscounts/funded-hero-deals)
@@ -20,7 +20,7 @@ As of November 2026, the verified Funded Hero discount code is PFD — 70% OFF, 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Funded Hero API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Funded Hero deal: 60% Off Instant Elite and Every Challenge with code PFD
+## Latest Funded Hero deal: 60% Off Instant Elite and Every Challenge with code PFD
 
 - Published: 2026-11-04
 - Offer ends: Limited time
@@ -29,7 +29,7 @@ As of November 2026, the verified Funded Hero discount code is PFD — 70% OFF, 
 - Code: PFD
 - Deal page: [Funded Hero Deal Page](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/)
 
-## Funded Hero discount code FAQ
+## Funded Hero Discount Code & Deals FAQ
 
 **What is the Funded Hero discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Funded Hero Deal History
 
 Total deals tracked: **47**
 
@@ -108,7 +108,7 @@ Total deals tracked: **47**
 
 ---
 
-## About this repository
+## About the Funded Hero Deals Dataset
 
 This repository mirrors every deal **Funded Hero** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -116,7 +116,7 @@ This repository mirrors every deal **Funded Hero** has published on PropFirmDisc
 - Prop firm profile: [Funded Hero Profile](https://propfirmdiscount.com/prop-firm/funded-hero/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/funded-hero-deals.json`
+## Funded Hero Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -148,13 +148,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

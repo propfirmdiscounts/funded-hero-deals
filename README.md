@@ -1,6 +1,6 @@
 # Funded Hero Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Funded Hero discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant Elite and Every Challenge with code PFD".
+As of November 2026, the verified Funded Hero discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant Elite and Every Challenge (code PFD)".
 
 > At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.
 > Getting started with us is simple. We’ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.
@@ -20,7 +20,7 @@ As of November 2026, the verified Funded Hero discount code is PFD — 60% OFF, 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Funded Hero API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Funded Hero deal: 60% Off Instant Elite and Every Challenge with code PFD
+## Latest Funded Hero deal: 60% Off Instant Elite and Every Challenge (code PFD)
 
 - Published: 2026-11-04
 - Offer ends: Limited time
@@ -41,7 +41,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Hero deal?**
 
-**60% Off Instant Elite and Every Challenge with code PFD** — published 2026-11-04. Offer ends: Limited time. The offer is 60% off.
+**60% Off Instant Elite and Every Challenge (code PFD)** — published 2026-11-04. Offer ends: Limited time. The offer is 60% off.
 
 ---
 
@@ -53,58 +53,58 @@ Total deals tracked: **47**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-04 | Funded Hero: 60% Off Instant Elite and Every Challenge with code PFD | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) |
-| 2026-10-27 | Funded Hero: 70% Off $100K Villain Challenge for Halloween with code PFD | 70% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) |
-| 2026-10-20 | Funded Hero: 62% Off All Accounts With Free Second Account with code PFD | 62% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) |
-| 2026-10-13 | Funded Hero: 70% Off All Challenge Fees with code PFD | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) |
-| 2026-10-01 | Funded Hero: 65% Off Challenge Pricing with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) |
-| 2026-09-24 | Funded Hero: 60% Off All Evaluation Accounts Plus Buy 1 Get 1 Free with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) |
-| 2026-09-20 | Funded Hero: 65% Off All Evaluation Accounts with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) |
-| 2026-09-10 | Funded Hero: 60% Off Upfront Entry Cost and 10% First Payout Bonus with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/) |
-| 2026-09-03 | Funded Hero: 65% Discount On Challenge Pricing With Bonus Evaluation Account with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-bogo/) |
-| 2026-09-01 | Funded Hero: 65% Off Evaluation Accounts Via Cryptocurrency with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-crypto-discount/) |
-| 2026-08-20 | Funded Hero: 65% Off Instant Elite Account Purchase Cost with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-instant-elite/) |
-| 2026-08-10 | Funded Hero: 50% Off All Challenges Plus Buy 1 Get 1 Free Deal with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-bogo-deal/) |
-| 2026-08-06 | Funded Hero: 60% Off All Evaluation Accounts: Upfront Fee Structure with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-evaluation-accounts/) |
-| 2026-07-24 | Funded Hero: 65% Off Challenge Pricing with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-evaluation-accounts/) |
-| 2026-07-03 | Funded Hero: 65% Off All Challenge Accounts Overview with code PFD | 65% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) |
-| 2026-06-14 | Funded Hero: $1K 2-Step Villain Account for $1 with code PFD | Only $1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-1k-villain-account-deal/) |
-| 2026-06-01 | Funded Hero: 65% Off All Evaluation Accounts Purchase Cost with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-challenges/) |
-| 2026-05-29 | Funded Hero: 60% Off Instant Hero Entry Cost This Weekend with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-instant-accounts/) |
-| 2026-05-25 | Funded Hero: 55% Off Evaluation Cost and 30% Payout Bonus for Memorial Day with code PFD | 55% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-30-bonus-memorial-day/) |
-| 2026-05-20 | Funded Hero: 55% Off Any Account Type Evaluation Cost with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-percent-off-anniversary/) |
-| 2026-05-15 | Funded Hero: 55% Off Any Challenge Type and 30% Payout Bonus with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-30-payout-bonus/) |
-| 2026-05-15 | Funded Hero: 55% Off All Accounts Upfront Fee with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-percent-discount-all-accounts/) |
-| 2026-05-13 | Funded Hero: 40% Off All Accounts Upfront Entry Cost with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-40-off-all-accounts/) |
-| 2026-05-11 | Funded Hero: 60% Off All Evaluation Accounts with code PFD | 60% off | Ended | Mother's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-all-accounts/) |
-| 2026-05-08 | Funded Hero: Weekend Promotion: 55% Off Evaluation Challenge Entry Fee with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-weekend-promotion/) |
-| 2026-04-25 | Funded Hero: 50% Evaluation Fee Reduction and 20% Extra Payout on Any Challenge with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-discount-20-payout-bonus/) |
-| 2026-04-18 | Funded Hero: 65% Off Instant Evaluation Account Entry Cost with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-percent-off-instant-funded-accounts/) |
-| 2026-04-04 | Funded Hero: Weekend Flash Sale: 40% Off Challenge Pricing and 100% Cash Refund with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-40-off-100-refund-weekend-sale/) |
-| 2026-03-28 | Funded Hero: 50% Off All Challenge Accounts and Additional Evaluation with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-discount-free-reset/) |
-| 2026-03-21 | Funded Hero: 65% Off Sitewide Challenge Pricing (Eid Mubarak) with code PFD | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) |
-| 2026-03-21 | Funded Hero: 65% Off All Evaluation Accounts During Eid Al-Fitr Promotion with code PFD | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/) |
-| 2026-03-19 | Funded Hero: 60% Off All Evaluation Accounts For St. Patrick's Day with code PFD | 60% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/) |
-| 2026-03-17 | Funded Hero: 50% Off Challenge Pricing and Bonus Draw Access with code PFD | 50% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-giveaway-entry/) |
-| 2026-03-13 | Funded Hero: 50% Off Challenge Pricing with 20% Payout Bonus Offer with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/50-off-20-bonus-all-accounts/) |
-| 2026-03-07 | Funded Hero: 35% Off Challenge Pricing and Second Account Included with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-off-bogo-offer/) |
-| 2026-03-02 | Funded Hero: $300 Store Credit Giveaway Entry with Account Purchase with code PFD | $300 Credit | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-300-store-credit-giveaway/) |
-| 2026-02-27 | Funded Hero: 60% Off Upfront Entry Cost and 20% Payout Bonus Deals with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-20-payout-bonus-weekend/) |
-| 2026-02-19 | Funded Hero: 35% Off Challenge Pricing and 150% Refund at Payout with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-off-150-refund-payout/) |
-| 2026-02-16 | Funded Hero: 60% Price Reduction on Trading Challenges Through Feb 18 with code PFD | 60% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-presidents-day-60-percent-off/) |
-| 2026-02-04 | Funded Hero: One-Time Free Account Reset Included with Purchase with code PFD | FREE RESET | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-free-reset-promo/) |
-| 2026-02-01 | Funded Hero: Flash Sale: 60% Off 1-Step, 2-Step, and 3-Step Evaluation Costs with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-flash-sale-60-off-challenges/) |
-| 2026-01-26 | Funded Hero: 35% Entry Fee Discount with Payout Bonus with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-percent-off-payout-bonus/) |
-| 2026-01-16 | Funded Hero: Weekend Offer: 65% Off All Challenges with code PFD | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-weekend-deal/) |
-| 2026-01-05 | Funded Hero: Traders Fight League 2 Tickets for March 28th with code PFD | 2 Ticket Access | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-traders-fight-league-tickets/) |
+| 2026-11-04 | Funded Hero: 60% Off Instant Elite and Every Challenge (code PFD) | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) |
+| 2026-10-27 | Funded Hero: 70% Off $100K Villain Challenge for Halloween (code PFD) | 70% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) |
+| 2026-10-20 | Funded Hero: 62% Off All Accounts With Free Second Account (code PFD) | 62% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) |
+| 2026-10-13 | Funded Hero: 70% Off All Challenge Fees (code PFD) | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) |
+| 2026-10-01 | Funded Hero: 65% Off Challenge Pricing (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) |
+| 2026-09-24 | Funded Hero: 60% Off All Evaluation Accounts Plus Buy 1 Get 1 Free (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) |
+| 2026-09-20 | Funded Hero: 65% Off All Evaluation Accounts (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) |
+| 2026-09-10 | Funded Hero: 60% Off Upfront Entry Cost and 10% First Payout Bonus (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/) |
+| 2026-09-03 | Funded Hero: 65% Discount On Challenge Pricing With Bonus Evaluation Account (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-bogo/) |
+| 2026-09-01 | Funded Hero: 65% Off Evaluation Accounts Via Cryptocurrency (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-crypto-discount/) |
+| 2026-08-20 | Funded Hero: 65% Off Instant Elite Account Purchase Cost (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-instant-elite/) |
+| 2026-08-10 | Funded Hero: 50% Off All Challenges Plus Buy 1 Get 1 Free Deal (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-bogo-deal/) |
+| 2026-08-06 | Funded Hero: 60% Off All Evaluation Accounts: Upfront Fee Structure (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-evaluation-accounts/) |
+| 2026-07-24 | Funded Hero: 65% Off Challenge Pricing (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-evaluation-accounts/) |
+| 2026-07-03 | Funded Hero: 65% Off All Challenge Accounts Overview (code PFD) | 65% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/) |
+| 2026-06-14 | Funded Hero: $1K 2-Step Villain Account for $1 (code PFD) | Only $1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-1k-villain-account-deal/) |
+| 2026-06-01 | Funded Hero: 65% Off All Evaluation Accounts Purchase Cost (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-challenges/) |
+| 2026-05-29 | Funded Hero: 60% Off Instant Hero Entry Cost This Weekend (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-instant-accounts/) |
+| 2026-05-25 | Funded Hero: 55% Off Evaluation Cost and 30% Payout Bonus for Memorial Day (code PFD) | 55% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-30-bonus-memorial-day/) |
+| 2026-05-20 | Funded Hero: 55% Off Any Account Type Evaluation Cost (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-percent-off-anniversary/) |
+| 2026-05-15 | Funded Hero: 55% Off Any Challenge Type and 30% Payout Bonus (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-30-payout-bonus/) |
+| 2026-05-15 | Funded Hero: 55% Off All Accounts Upfront Fee (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-percent-discount-all-accounts/) |
+| 2026-05-13 | Funded Hero: 40% Off All Accounts Upfront Entry Cost (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-40-off-all-accounts/) |
+| 2026-05-11 | Funded Hero: 60% Off All Evaluation Accounts (code PFD) | 60% off | Ended | Mother's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-all-accounts/) |
+| 2026-05-08 | Funded Hero: Weekend Promotion: 55% Off Evaluation Challenge Entry Fee (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-weekend-promotion/) |
+| 2026-04-25 | Funded Hero: 50% Evaluation Fee Reduction and 20% Extra Payout on Any Challenge (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-discount-20-payout-bonus/) |
+| 2026-04-18 | Funded Hero: 65% Off Instant Evaluation Account Entry Cost (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-percent-off-instant-funded-accounts/) |
+| 2026-04-04 | Funded Hero: Weekend Flash Sale: 40% Off Challenge Pricing and 100% Cash Refund (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-40-off-100-refund-weekend-sale/) |
+| 2026-03-28 | Funded Hero: 50% Off All Challenge Accounts and Additional Evaluation (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-discount-free-reset/) |
+| 2026-03-21 | Funded Hero: 65% Off Sitewide Challenge Pricing (Eid Mubarak) (code PFD) | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/) |
+| 2026-03-21 | Funded Hero: 65% Off All Evaluation Accounts During Eid Al-Fitr Promotion (code PFD) | 65% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/) |
+| 2026-03-19 | Funded Hero: 60% Off All Evaluation Accounts For St. Patrick's Day (code PFD) | 60% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/) |
+| 2026-03-17 | Funded Hero: 50% Off Challenge Pricing and Bonus Draw Access (code PFD) | 50% off | Ended | St. Patrick's Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-giveaway-entry/) |
+| 2026-03-13 | Funded Hero: 50% Off Challenge Pricing with 20% Payout Bonus Offer (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/50-off-20-bonus-all-accounts/) |
+| 2026-03-07 | Funded Hero: 35% Off Challenge Pricing and Second Account Included (code PFD) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-off-bogo-offer/) |
+| 2026-03-02 | Funded Hero: $300 Store Credit Giveaway Entry with Account Purchase (code PFD) | $300 Credit | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-300-store-credit-giveaway/) |
+| 2026-02-27 | Funded Hero: 60% Off Upfront Entry Cost and 20% Payout Bonus Deals (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-20-payout-bonus-weekend/) |
+| 2026-02-19 | Funded Hero: 35% Off Challenge Pricing and 150% Refund at Payout (code PFD) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-off-150-refund-payout/) |
+| 2026-02-16 | Funded Hero: 60% Price Reduction on Trading Challenges Through Feb 18 (code PFD) | 60% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-presidents-day-60-percent-off/) |
+| 2026-02-04 | Funded Hero: One-Time Free Account Reset Included with Purchase (code PFD) | FREE RESET | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-free-reset-promo/) |
+| 2026-02-01 | Funded Hero: Flash Sale: 60% Off 1-Step, 2-Step, and 3-Step Evaluation Costs (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-flash-sale-60-off-challenges/) |
+| 2026-01-26 | Funded Hero: 35% Entry Fee Discount with Payout Bonus (code PFD) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-35-percent-off-payout-bonus/) |
+| 2026-01-16 | Funded Hero: Weekend Offer: 65% Off All Challenges (code PFD) | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-weekend-deal/) |
+| 2026-01-05 | Funded Hero: Traders Fight League 2 Tickets for March 28th (code PFD) | 2 Ticket Access | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-traders-fight-league-tickets/) |
 
 ### 2025 (3 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-05 | Funded Hero: Flash Sale: 60% OFF Instant Funding Accounts with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-instant-funding/) |
-| 2025-11-18 | Funded Hero: Black Friday Deal: 60% OFF All Challenges with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/) |
-| 2025-11-11 | Funded Hero: 51% OFF Instant Accounts (Biggest Instant Discount, Ends Nov 12) with code PFD | 51% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-51-off-instant-accounts-biggest-discount-ends-nov-12/) |
+| 2025-12-05 | Funded Hero: Flash Sale: 60% OFF Instant Funding Accounts (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-instant-funding/) |
+| 2025-11-18 | Funded Hero: Black Friday Deal: 60% OFF All Challenges (code PFD) | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/) |
+| 2025-11-11 | Funded Hero: 51% OFF Instant Accounts (Biggest Instant Discount, Ends Nov 12) (code PFD) | 51% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-51-off-instant-accounts-biggest-discount-ends-nov-12/) |
 
 ---
 
